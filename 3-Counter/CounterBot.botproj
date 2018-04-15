@@ -1,0 +1,9 @@
+{
+  "botId": "",
+  "botName": "CounterBot",
+  "botUrl": "http://localhost:51598/api/messages",
+  "id": "b305d9a0-4070-11e8-a0c3-4d6bb1d604ea",
+  "locale": "",
+  "msaAppId": "",
+  "msaPassword": ""
+}

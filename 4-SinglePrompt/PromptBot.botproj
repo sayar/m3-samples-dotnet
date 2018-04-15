@@ -1,0 +1,9 @@
+{
+  "botId": "",
+  "botName": "PromptBot",
+  "botUrl": "http://localhost:51601/api/messages",
+  "id": "4c841a30-4074-11e8-a0c3-4d6bb1d604ea",
+  "locale": "",
+  "msaAppId": "",
+  "msaPassword": ""
+}
